@@ -14,4 +14,12 @@ My experience includes technical leadership, where I mentored teams and managed 
 
 I believe that a combination of best development practices and constant innovation is key to building efficient, high-performance applications.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Portfolio](https://seu-portfolio.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/marco-petry)
+
+## 🚀 Technologies & Tools  
+![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
